@@ -1,4 +1,11 @@
-# AI-Based HR Recruitment Analytics System
+# AI-Driven HR Recruitment Analytics and Candidate Selection System
+
+[Project Status: Production-Ready] [Category: HR Tech] [Focus: Recruitment Automation]
+
+This project demonstrates a working implementation of AI-based recruitment analytics using machine learning and Power BI dashboards.
+
+---
+
 
 ## 1. Project Overview
 
