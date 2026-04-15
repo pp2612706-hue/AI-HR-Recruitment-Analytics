@@ -62,37 +62,11 @@ The system simulates real-world HR analytics used by organizations to improve hi
 
 ### 5.1 Full Dashboard
 
-![Dashboard Overview](images/dashboard_overview.png)
+<img width="1491" height="799" alt="Screenshot 2026-04-15 115209" src="https://github.com/user-attachments/assets/40b17046-d9b6-4c73-a18a-e74d8c7460c7" /> 
 
 ---
 
-### 5.2 KPI Section
 
-![KPI Section](images/kpi_section.png)
-
----
-
-### 5.3 Country-wise Hiring Analysis
-
-![Hiring Analysis](images/hiring_analysis.png)
-
----
-
-### 5.4 Experience Impact on Hiring
-
-![Experience Analysis](images/experience_analysis.png)
-
----
-
-### 5.5 Salary Distribution
-
-![Salary Distribution](images/salary_distribution.png)
-
----
-
-### 5.6 Skill vs Technical Performance
-
-![Skill vs Technical](images/skill_vs_technical.png)
 
 ---
 
